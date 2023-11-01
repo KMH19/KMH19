@@ -2,7 +2,7 @@
 
 My name is Kasper, and I am currently studying for a master's degree in Robotics engineering at Aalborg University! 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmh19&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmh19&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)
 
 
 
