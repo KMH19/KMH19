@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 My name is Kasper, and I am currently studying for a master's degree in Robotics engineering at Aalborg University! 
 
