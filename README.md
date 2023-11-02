@@ -5,7 +5,7 @@ My name is Kasper Maarschalk Hytting, and I am currently studying for a master's
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmh19&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)
 ![KMH19's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmh19&show_icons=true&theme=radical)
 
-## Contact
+## Contact me
 
 You can contact me through any of the following alternatives:
 
