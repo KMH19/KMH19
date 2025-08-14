@@ -1,6 +1,7 @@
 ### Hi there! 👋
 
 My name is Kasper Maarschalk Hytting. 
+
 I am working as a computer vision and AI engineer at The LEGO Group, where I solve real-world manufacturing challenges and explore state-of-the-art, research-driven vision projects beyond manufacturing. 
 
 I hold a Masters degree in Robotics Engineering from Aalborg University.
