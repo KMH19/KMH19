@@ -1,6 +1,9 @@
 ### Hi there! 👋
 
-My name is Kasper Maarschalk Hytting, and I am currently studying for a master's degree in Robotics engineering at Aalborg University! I am currently situated at The LEGO Group as a computer vision engineering intern.
+My name is Kasper Maarschalk Hytting. 
+I am working as a computer vision and AI engineer at The LEGO Group, where I solve real-world manufacturing challenges and explore state-of-the-art, research-driven vision projects beyond manufacturing. 
+
+I hold a Masters degree in Robotics Engineering from Aalborg University.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmh19&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)
 <!--
